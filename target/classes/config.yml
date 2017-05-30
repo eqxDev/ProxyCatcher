@@ -1,0 +1,4 @@
+# This is required so if there are any errors with the API and your server you will get a notification.
+email: 'text@testemail.com'
+# Kick message
+message: 'Your IP has been flagged as a proxy.'

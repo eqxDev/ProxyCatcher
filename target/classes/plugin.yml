@@ -1,0 +1,4 @@
+name: ProxyCatcher
+main: net.eqxdev.proxycatcher.ProxyCatcher
+version: 1.0-SNAPSHOT
+authors: [eqxDev]

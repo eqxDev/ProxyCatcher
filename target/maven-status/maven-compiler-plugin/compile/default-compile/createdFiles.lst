@@ -1,0 +1,4 @@
+net/eqxdev/proxycatcher/util/ConfigManager.class
+net/eqxdev/proxycatcher/util/ProxyUtil.class
+net/eqxdev/proxycatcher/event/PlayerConnectionEvent.class
+net/eqxdev/proxycatcher/ProxyCatcher.class

@@ -1,0 +1,4 @@
+name: ${project.artifactId}
+main: net.eqxdev.proxycatcher.ProxyCatcher
+version: ${project.version}
+authors: [eqxDev]
